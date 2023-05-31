@@ -206,7 +206,6 @@ section {
   background-size: cover;
   position: relative;
   background-attachment: fixed;
-  justify-content: center;
 }
 .home::before {
   content: "";
